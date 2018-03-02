@@ -1,0 +1,24 @@
+
+body {
+
+background: white url("test.jpg") no-repeat right bottom;
+
+}
+
+li a {
+color: green;
+}
+#poll{
+background-color:#D4D4FF;
+margin-left: 500px;
+margin-right: 500px;
+margin-top:250px;
+margin-bottom : 300px;
+ border-radius: 7px;
+}
+a,h3,p,h1,h2,label{
+font-family: "Arial", Times, serif;
+}
+#button{
+margin-left:150px;
+}
