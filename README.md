@@ -1,2 +1,2 @@
-# Apllikasi-Izin-Keluar-Kampus
-Aplikasi Izin Keluar Kampus v1.0
+# Simple polls in Django style
+Still developed this web app 
